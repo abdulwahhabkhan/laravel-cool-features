@@ -2,7 +2,7 @@
 
 1. Gate Customer messages
 
- * Gate Authorized
+ * [Gate Authorized](gate-authorize.php)
 
- * Gate Inspect 
- * [Laravel mix cache busting using filename based cache](https://github.com/abdulwahhabkhan/laravel-cool-features/blob/master/laravel-mix-filename-versioning.md)
+ * [Gate Inspect](gate-inspect.php)
+ * [Laravel mix cache busting using filename based cache](laravel-mix-filename-versioning.md)
