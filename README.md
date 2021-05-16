@@ -6,3 +6,6 @@
 
  * [Gate Inspect](gate-inspect.php)
  * [Laravel mix cache busting using filename based cache](laravel-mix-filename-versioning.md)
+
+2. Custom Eloquent Reation
+ * [Custom Relation](/Relation)
