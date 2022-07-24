@@ -9,3 +9,6 @@
 
 2. Custom Eloquent Reation
  * [Custom Relation](/Relation)
+ 
+3. Vite setup for Laravel
+ * [Livewire](/livewire/vite.config.js)
